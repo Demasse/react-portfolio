@@ -1,7 +1,7 @@
 import React from "react";
 
 const Banner = () => {
-    return   <div className=" section" >banner</div>;
+    return   <div className=" section"  id="home" >banner</div>;
 
 };
 

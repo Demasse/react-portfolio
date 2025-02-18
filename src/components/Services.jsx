@@ -1,7 +1,7 @@
 import React from "react";
 
 const Services = () => {
-return <div className=" section">services</div>
+return <div className=" section" id="services"  >services</div>
 
 }
 
