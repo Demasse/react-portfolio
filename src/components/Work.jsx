@@ -1,7 +1,7 @@
 import React from "react";
 
 const Work = () => {
-return <div>work</div>
+return <div className=" section">work</div>
 
 }
 
